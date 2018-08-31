@@ -22,7 +22,7 @@ import android.support.v14.preference.SwitchPreference;
 import android.support.v7.preference.Preference;
 import android.provider.Settings;
 
-import org.cyanogenmod.settings.device.ScreenType;
+import org.cyanogenmod.internal.util.ScreenType;
 
 public class TouchscreenGestureSettings extends PreferenceFragment {
 
